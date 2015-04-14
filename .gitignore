@@ -31,3 +31,5 @@
 # IDEs
 .idea
 
+# Java
+.class
