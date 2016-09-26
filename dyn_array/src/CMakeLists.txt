@@ -1,0 +1,1 @@
+add_library(dyn_array dyn_array.h dyn_array.c)
