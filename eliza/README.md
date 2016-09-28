@@ -6,7 +6,7 @@ programa juega el rol de una psicóloga que escucha los problemas personales
 del usuario. Weizenbaum, el autor de este programa utilizó los resultados
 de este experimento para estudiar la IA desde la perspectiva de la ética y
 eventualmente tomó una posición crítica hacia esta disciplina.
-(Oregan, 2016, p. 259)
+(O'Regan, 2016, p. 259)
 
 Ejemplo de uso:
 

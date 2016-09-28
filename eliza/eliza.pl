@@ -10,7 +10,7 @@
  del usuario. Weizenbaum, el autor de este programa utilizó los resultados
  de este experimento para estudiar la IA desde la perspectiva de la ética y
  eventualmente tomó una posición crítica hacia esta disciplina.
- (Oregan, 2016, p. 259)
+ (ORegan, 2016, p. 259)
  -------------------------------------------------------------------------------
 */
 
